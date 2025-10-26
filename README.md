@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ptokarev74, Pavel Tokarev
-- 👀 I’m interested in Software Development, Machine Learning, Web Development
-- 🌱 I’m currently learning Web Development, User Experience
+- 👀 I’m interested in Front-end Development, UX, and ML
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
