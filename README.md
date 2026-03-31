@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ptokarev74, Pavel Tokarev
-- 👀 I’m interested in Front-end Development, UX, and ML
+- 👀 I’m interested in Web Dev, UX, and ML
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything!
 
